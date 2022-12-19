@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data science, Data analysis
 - 🌱 I’m currently learning Javascript, HTML, CSS, Python, Sql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me file:///C:/Users/Furkan/Desktop/Sonu%C3%A7/iletisim.html
+- 📫 How to reach me https://www.linkedin.com/in/furkan-atasert-33477b1a1/
 
 <!---
 Ogred08/Ogred08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
