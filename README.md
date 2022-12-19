@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Furkan
-- I'm an Statistician
+- I'm a Statistician
 - 👀 I’m interested in Data science, Data analysis
 - 🌱 I’m currently learning Javascript, HTML, CSS, Python, Sql
 - 💞️ I’m looking to collaborate on ...
